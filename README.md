@@ -13,4 +13,4 @@ The objective of this project goes beyond simple classification; it aims to demo
 2. Understanding MLOps and Its Concepts:
    The project deepened our understanding of MLOps as an essential discipline that merges machine learning with operations. We learned how MLOps facilitates the lifecycle management of ML models, incorporating practices like monitoring, versioning, and automation to ensure models remain accurate and effective over time.
 
-
+The full report for the above project can be found here [report.pdf](https://github.com/Avivaswani09/MLOps_Flora_Classification/files/15377758/dstproject5.pdf)
